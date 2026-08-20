@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "A comprehensive weather dashboard with forecasts, charts, and actionable insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
